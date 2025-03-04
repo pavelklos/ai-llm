@@ -11,3 +11,7 @@
 - **OpenAI (gpt, website, brochure)** (openai, gpt, summarize website, create brochure)<br>`model-gpt-website-brochure-2.ipynb`
 - **OpenAI + Ollama (gpt, llama, code)** (openai, gpt, ollama, llama, explain code)<br>`model-gpt-ollama-llama-1.ipynb`
 - **OpenAI + Ollama (gpt, llama, code)** (openai, gpt, ollama, llama, explain code)<br>`model-gpt-ollama-llama-2.ipynb`
+
+## LangChain
+
+- [README](LangChain/README.md)
