@@ -1,17 +1,13 @@
 # AI - LLM
 
-## 01. Frontier Models
+## 01. Models
 
-- **frontier-model-gpt-website** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website.ipynb`
-
-- **frontier-model-ollama-llama.ipynb** (ollama, llama)<br>`frontier-model-ollama-llama.ipynb`
-- **frontier-model-ollama-llama-deepseek** (ollama, llama, deepseek)<br>`frontier-model-ollama-llama-deepseek.ipynb`
-
-- **frontier-model-ollama-llama-website-1** (ollama, llama, class website)<br>`frontier-model-ollama-llama-website-1.ipynb`
-- **frontier-model-ollama-llama-website-2** (ollama, llama, class website)<br>`frontier-model-ollama-llama-website-2.ipynb`
-
-- **frontier-model-gpt-website-brochure-1** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website-brochure-1.ipynb`
-- **frontier-model-gpt-website-brochure-2** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website-brochure-2.ipynb`
-
-- **frontier-model-gpt-ollama-llama-1** (openai, gpt, ollama, llama, explain code)<br>`frontier-model-gpt-ollama-llama-1.ipynb`
-- **frontier-model-gpt-ollama-llama-2** (openai, gpt, ollama, llama, explain code)<br>`frontier-model-gpt-ollama-llama-2.ipynb`
+- **OpenAI (gpt, website)** (openai, gpt, summarize website)<br>`model-gpt-website.ipynb`
+- **Ollama (llama)** (ollama, llama)<br>`model-ollama-llama.ipynb`
+- **Ollama (llama, deepseek)** (ollama, llama, deepseek)<br>`model-ollama-llama-deepseek.ipynb`
+- **Ollama (llama, website)** (ollama, llama, summarize website)<br>`model-ollama-llama-website-1.ipynb`
+- **Ollama (llama, website)** (ollama, llama, summarize website)<br>`model-ollama-llama-website-2.ipynb`
+- **OpenAI (gpt, website, brochure)** (openai, gpt, summarize website, create brochure)<br>`model-gpt-website-brochure-1.ipynb`
+- **OpenAI (gpt, website, brochure)** (openai, gpt, summarize website, create brochure)<br>`model-gpt-website-brochure-2.ipynb`
+- **OpenAI + Ollama (gpt, llama, code)** (openai, gpt, ollama, llama, explain code)<br>`model-gpt-ollama-llama-1.ipynb`
+- **OpenAI + Ollama (gpt, llama, code)** (openai, gpt, ollama, llama, explain code)<br>`model-gpt-ollama-llama-2.ipynb`
