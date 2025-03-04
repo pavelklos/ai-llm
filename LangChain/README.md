@@ -21,3 +21,8 @@
 ## Links
 
 - [Chatbot](https://chat.langchain.com/) (...answer questions about langchain)
+- [LangSmith](https://smith.langchain.com/)
+
+## 01. Basic
+
+- **Basic LangChain in 15 minutes** (openai, connect, prompt template, chain, conversation chain memory)<br>`basic-langchain-in-15-mins.ipynb`
