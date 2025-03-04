@@ -7,4 +7,5 @@
 - **frontier-model-ollama-llama-deepseek** (ollama, llama, deepseek)<br>`frontier-model-ollama-llama-deepseek.ipynb`
 - **frontier-model-ollama-llama-website-1** (ollama, llama, class website)<br>`frontier-model-ollama-llama-website-1.ipynb`
 - **frontier-model-ollama-llama-website-2** (ollama, llama, class website)<br>`frontier-model-ollama-llama-website-2.ipynb`
-- **frontier-model-gpt-website-brochure** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website-brochure.ipynb`
+- **frontier-model-gpt-website-brochure-1** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website-brochure-1.ipynb`
+- **frontier-model-gpt-website-brochure-2** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website-brochure-2.ipynb`
