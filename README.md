@@ -13,4 +13,5 @@
 - **frontier-model-gpt-website-brochure-1** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website-brochure-1.ipynb`
 - **frontier-model-gpt-website-brochure-2** (openai, gpt, class website, brochure)<br>`frontier-model-gpt-website-brochure-2.ipynb`
 
-- **frontier-model-gpt-ollama-llama** (openai, gpt, ollama, llama, explain code)<br>`frontier-model-gpt-ollama-llama.ipynb`
+- **frontier-model-gpt-ollama-llama-1** (openai, gpt, ollama, llama, explain code)<br>`frontier-model-gpt-ollama-llama-1.ipynb`
+- **frontier-model-gpt-ollama-llama-2** (openai, gpt, ollama, llama, explain code)<br>`frontier-model-gpt-ollama-llama-2.ipynb`
