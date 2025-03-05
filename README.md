@@ -20,6 +20,9 @@
 - **Models + Gradio** (gpt, claude, summarize website, create brochure)<br>`w2d2-2.ipynb`
 - **Models + Gradio** (gpt, conversation history)<br>`w2d3-1.ipynb`
 - **Models + Gradio** (gpt, conversation history)<br>`w2d3-2.ipynb`
+- **Models + Gradio** (gpt, tools)<br>`w2d4-1.ipynb`
+- **Models + Gradio** (gpt, tools)<br>`w2d4-1-updated.ipynb`
+- **Models + Gradio** (gpt, ollama, llama, tools)<br>`w2d4-2.ipynb`
 
 ## LangChain
 
