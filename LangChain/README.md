@@ -26,5 +26,5 @@
 ## 01. Basic
 
 - **Basic LangChain in 15 minutes** (openai, connect, prompt template, chain, conversation chain memory)<br>`basic-langchain-in-15-mins.ipynb`
-- **Tools & Agents [TODO]** (openai, tools, agents)<br>`tools-agents.ipynb`
-- **Tools & Agents [TODO]** (openai, tools, agents)<br>`tools-agents-2.ipynb`
+- **Tools & Agents (1) [TODO]** (openai, tools, agents)<br>`tools-agents-1.ipynb`
+- **Tools & Agents (2) [TODO]** (openai, tools, agents)<br>`tools-agents-2.ipynb`
