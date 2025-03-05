@@ -16,6 +16,8 @@
 
 - **Models** (gpt, claude, gemini)<br>`w2d1-1.ipynb`
 - **Models** (gpt, claude, gemini, deepseek)<br>`w2d1-2.ipynb`
+- **Models + Gradio** (gpt, claude, summarize website, create brochure)<br>`w2d2-1.ipynb`
+- **Models + Gradio** (gpt, claude, summarize website, create brochure)<br>`w2d2-2.ipynb`
 
 ## LangChain
 
