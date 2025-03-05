@@ -32,4 +32,4 @@
 
 ## Streamlit (GUI)
 
-- **Basic Streamlit by GitHub Copilot** (controls, data, chart, file uploader, csv)<br>`001-streamlit-basic-copilot.py`
+- **Basic Streamlit by GitHub Copilot** (controls, data, chart, file uploader, csv)<br>`000-streamlit-basic-copilot.py`
