@@ -23,6 +23,8 @@
 - **Models + Gradio** (gpt, tools)<br>`w2d4-1.ipynb`
 - **Models + Gradio** (gpt, tools)<br>`w2d4-1-updated.ipynb`
 - **Models + Gradio** (gpt, ollama, llama, tools)<br>`w2d4-2.ipynb`
+- **Models + Gradio** (gpt, tools, multi-modal, history)<br>`w2d5-1.ipynb`
+- **Models + Gradio** (gpt, tools, multi-modal, history)<br>`w2d5-2.ipynb`
 
 ## LangChain
 
