@@ -12,6 +12,11 @@
 - **OpenAI + Ollama (gpt, llama, code)** (openai, gpt, ollama, llama, explain code)<br>`model-gpt-ollama-llama-1.ipynb`
 - **OpenAI + Ollama (gpt, llama, code)** (openai, gpt, ollama, llama, explain code)<br>`model-gpt-ollama-llama-2.ipynb`
 
+## 02. Models with GUI (Gradio)
+
+- **Models** (gpt, claude, gemini)<br>`w2d1-1.ipynb`
+- **Models** (gpt, claude, gemini, deepseek)<br>`w2d1-2.ipynb`
+
 ## LangChain
 
 - [README](LangChain/README.md)
