@@ -29,3 +29,7 @@
 ## LangChain
 
 - [README](LangChain/README.md)
+
+## Streamlit (GUI)
+
+- **Basic Streamlit by GitHub Copilot** (controls, data, chart, file uploader, csv)<br>`001-streamlit-basic-copilot.py`
