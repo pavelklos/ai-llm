@@ -29,3 +29,4 @@
 - **Tools & Agents (1) [TODO]** (openai, tools, agents)<br>`tools-agents-1.ipynb`
 - **Tools & Agents (2) [TODO]** (openai, tools, agents)<br>`tools-agents-2.ipynb`
 - **Models (OpenAI)** (openai, messages)<br>`models.ipynb`
+- **Models (Replicate + Llama)** (replicate, llama)<br>`models-replicate-llama.ipynb`
