@@ -36,3 +36,4 @@
 - **Re-write your text** (openai, prompt template)<br>`001-streamlit-redaction-improver.py`
 - **Blog Post Generator** (openai, prompt template)<br>`002-streamlit-blog-post-generator.py`
 - **AI Long Text Summarizer** (openai, upload file, recursive character text splitter, summarize chain)<br>`003-streamlit-split-and-summarize.py`
+- **Writing Text Summarization** (openai, character text splitter, summarize chain)<br>`004-streamlit-text-summarization.py`
