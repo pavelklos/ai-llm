@@ -36,3 +36,4 @@
 - **Output Parsers** (openai, prompt template, pydantic output parser)<br>`output-parsers.ipynb`
 - **Memory** (openai, conversation buffer memories)<br>`memory.ipynb`
 - **Chains** (openai, chain, sequential chain, router chain)<br>`chains.ipynb`
+- **Document Loaders** (openai, loaders - pdf, audio, website)<br>`document-loaders.ipynb`
