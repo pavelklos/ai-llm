@@ -22,6 +22,7 @@
 
 - [Chatbot](https://chat.langchain.com/) (...answer questions about langchain)
 - [LangSmith](https://smith.langchain.com/)
+- [Hub (Prompts)](https://smith.langchain.com/hub)
 
 ## 01. Basic
 
@@ -30,3 +31,4 @@
 - **Tools & Agents (2) [TODO]** (openai, tools, agents)<br>`tools-agents-2.ipynb`
 - **Models (OpenAI)** (openai, messages)<br>`models.ipynb`
 - **Models (Replicate + Llama)** (replicate, llama)<br>`models-replicate-llama.ipynb`
+- **Prompts** (openai, prompt template, messages, chat prompt template)<br>`prompts.ipynb`
