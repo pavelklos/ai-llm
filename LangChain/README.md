@@ -34,3 +34,4 @@
 - **Prompts** (openai, prompt template, messages, chat prompt template)<br>`prompts.ipynb`
 - **Few Shot Prompts** (openai, prompt template, few shot prompt template)<br>`few-shot-template.ipynb`
 - **Output Parsers** (openai, prompt template, pydantic output parser)<br>`output-parsers.ipynb`
+- **Memory** (openai, conversation buffer memories)<br>`memory.ipynb`
