@@ -35,3 +35,4 @@
 - **Few Shot Prompts** (openai, prompt template, few shot prompt template)<br>`few-shot-template.ipynb`
 - **Output Parsers** (openai, prompt template, pydantic output parser)<br>`output-parsers.ipynb`
 - **Memory** (openai, conversation buffer memories)<br>`memory.ipynb`
+- **Chains** (openai, chain, sequential chain, router chain)<br>`chains.ipynb`
