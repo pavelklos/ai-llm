@@ -38,3 +38,4 @@
 - **AI Long Text Summarizer** (openai, upload file, recursive character text splitter, summarize chain)<br>`003-streamlit-split-and-summarize.py`
 - **Writing Text Summarization** (openai, character text splitter, summarize chain)<br>`004-streamlit-text-summarization.py`
 - **Extract Key Information from Product Reviews** (openai, prompt template, format output)<br>`005-streamlit-extract-json-from-review.py`
+- **Evaluate a RAG App** (openai, upload file, rag with faiss, qa eval chain)<br>`009-streamlit-evaluate-QandA-from-long-document.py`
