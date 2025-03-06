@@ -36,7 +36,7 @@ ax.set_title('Sample Bar Chart')
 
 
 def main():
-    st.title("My Streamlit App")
+    st.title("Basic Streamlit by GitHub Copilot")
 
     # Display simple text and markdown
     st.header("1. Simple Text and Markdown")
