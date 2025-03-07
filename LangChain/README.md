@@ -37,3 +37,4 @@
 - **Memory** (openai, conversation buffer memories)<br>`memory.ipynb`
 - **Chains** (openai, chain, sequential chain, router chain)<br>`chains.ipynb`
 - **Document Loaders** (openai, loaders - pdf, audio, website)<br>`document-loaders.ipynb`
+- **Splitters** (text splitters - character, recursive character, markdown header)<br>`splitters.ipynb`
