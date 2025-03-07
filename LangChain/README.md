@@ -39,3 +39,4 @@
 - **Document Loaders** (openai, loaders - pdf, audio, website)<br>`document-loaders.ipynb`
 - **Splitters** (text splitters - character, recursive character, markdown header)<br>`splitters.ipynb`
 - **Callbacks** (openai, callback handlers - stdout, base, openai costs & usage)<br>`callbacks.ipynb`
+- **OpenAI functions** (openai, solution by langchain, openai api)<br>`openai-functions.ipynb`
