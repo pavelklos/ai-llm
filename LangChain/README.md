@@ -41,3 +41,4 @@
 - **Callbacks** (openai, callback handlers - stdout, base, openai costs & usage)<br>`callbacks.ipynb`
 - **OpenAI functions** (openai, solution by langchain, openai api)<br>`openai-functions.ipynb`
 - **Connect with FastAPI** (openai, basic rag, rag with fastapi)<br>`basic-rag-app-qa-to-fastapi.ipynb`
+- **Agents** (openai, basic rag, agents - simple, custom)<br>`agents.ipynb`
