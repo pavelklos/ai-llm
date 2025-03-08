@@ -43,3 +43,7 @@
 - **Connect with FastAPI** (openai, basic rag, rag with fastapi)<br>`basic-rag-app-qa-to-fastapi.ipynb`
 - **Agents** (openai, basic rag, agents - simple, custom)<br>`agents.ipynb`
 - **Indexing API** (openai, basic rag with deeplake, similarity search, indexing api)<br>`indexing-api.ipynb`
+
+## 02. Groq (alternative to OpenAI)
+
+- **How to use Groq** (chat groq with llama3, mixtral)<br>`groq-llama3-mixtral.ipynb`
