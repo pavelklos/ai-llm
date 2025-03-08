@@ -55,3 +55,7 @@
 - **Arguments** (openai, old-new way, llm.bind)<br>`LCEL-kargs-arguments.ipynb`
 - **OpenAI functions** (openai, old-new way, json output functions parser, functions, llm.bind)<br>`LCEL-openai-functions.ipynb`
 - **RAG Applications** (openai, old-new way, basic rag, runnable passthrough)<br>`LCEL-basic-rag-app-qa.ipynb`
+
+## 04. Advanced Components
+
+- **[LangSmith](https://docs.smith.langchain.com/)** (openai, tracer, tags, groups, client, metadata, filters, evaluating with dataset)<br>`langchain-langsmith.ipynb`
