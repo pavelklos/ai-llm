@@ -47,3 +47,7 @@
 ## 02. Groq (alternative to OpenAI)
 
 - **How to use Groq** (chat groq with llama3, mixtral)<br>`groq-llama3-mixtral.ipynb`
+
+## 03. LCEL (LangChain Expression Language)
+
+- **Chains** (openai, old-new way, llm chain, pipe)<br>`LCEL-chains.ipynb`
