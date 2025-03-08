@@ -53,4 +53,4 @@
 - **Chains** (openai, old-new way, llm chain, pipe)<br>`LCEL-chains.ipynb`
 - **Output Parsers** (openai, old-new way, str output parser)<br>`LCEL-output-parsers.ipynb`
 - **Arguments** (openai, old-new way, llm.bind)<br>`LCEL-kargs-arguments.ipynb`
-- **OpenAI functions** (openai, old-new way, json output functions parser, functions, llm.bind)<br>`v1-812-LCEL-openai-functions.ipynb`
+- **OpenAI functions** (openai, old-new way, json output functions parser, functions, llm.bind)<br>`LCEL-openai-functions.ipynb`
