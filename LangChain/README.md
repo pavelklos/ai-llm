@@ -70,3 +70,4 @@
 - **Extraction of structured data** (openai, response schema, structured output parser)<br>`basic-app-text-extraction.ipynb`
 - **Evaluation of QA App** (openai, basic rag, questions, answers, predictions, evaluation manual-automatic)<br>`basic-app-evaluation.ipynb`
 - **Querying database** (openai, sqlite, sql database chain)<br>`basic-app-querying-tabular-data.ipynb`
+- **Asking GitHub repo** (openai, text loader, basic rag)<br>`basic-app-qa-a-github-repo.ipynb`
