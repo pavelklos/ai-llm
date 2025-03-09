@@ -68,3 +68,4 @@
 - **Summarization** (openai, tokens, text splitter, chunks, chain, summarize chain)<br>`basic-app-summarization.ipynb`
 - **RAG: Document QA (Question-Answering)** (openai, basic rag)<br>`basic-rag-app-qa.ipynb`
 - **Extraction of structured data** (openai, response schema, structured output parser)<br>`basic-app-text-extraction.ipynb`
+- **Evaluation of QA App** (openai, basic rag, questions, answers, predictions, evaluation manual-automatic)<br>`basic-app-evaluation.ipynb`
