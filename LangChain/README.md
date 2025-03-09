@@ -73,3 +73,4 @@
 - **Asking GitHub repo** (openai, text loader, basic rag)<br>`basic-app-qa-a-github-repo.ipynb`
 - **Asking API & LangGraph** (openai, api chain, langgraph)<br>`basic-app-interacting-with-api.ipynb`
 - **Chatbot with personality & memory** (openai, role template, conversation buffer memory)<br>`basic-app-chatbot.ipynb`
+- **RAG with DeepLake** (openai, documents, basic rag, deeplake, add documents)<br>`basic-rag-with-deeplake.ipynb`
