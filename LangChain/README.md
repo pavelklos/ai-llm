@@ -61,3 +61,4 @@
 - **[LangSmith](https://docs.smith.langchain.com/)** (openai, tracer, tags, groups, client, metadata, filters, evaluating with dataset)<br>`langchain-langsmith.ipynb`
 - **[LangServe](https://python.langchain.com/docs/langserve/)** (openai, fastapi, routes, uvicorn, server)<br>`langserve.ipynb`
 - **[Templates](https://templates.langchain.com/)** (**[v0.1](https://python.langchain.com/v0.1/docs/templates/)**) (by terminal & langserve, rag-conversation template, etc.)<br>`langchain-templates.ipynb`
+- **[Chatbot](https://chat.langchain.com/)** (...answer questions about langchain)
