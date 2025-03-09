@@ -66,3 +66,4 @@
 ## 05. Level 1 Apps: "Toy Demos"
 
 - **Summarization** (openai, tokens, text splitter, chunks, chain, summarize chain)<br>`basic-app-summarization.ipynb`
+- **RAG: Document QA (Question-Answering)** (openai, basic rag)<br>`basic-rag-app-qa.ipynb`
