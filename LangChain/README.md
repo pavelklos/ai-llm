@@ -59,3 +59,4 @@
 ## 04. Advanced Components
 
 - **[LangSmith](https://docs.smith.langchain.com/)** (openai, tracer, tags, groups, client, metadata, filters, evaluating with dataset)<br>`langchain-langsmith.ipynb`
+- **[LangServe](https://python.langchain.com/docs/langserve/)** (openai, fastapi, routes, uvicorn, server)<br>`langserve.ipynb`
