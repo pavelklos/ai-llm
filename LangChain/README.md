@@ -62,3 +62,7 @@
 - **[LangServe](https://python.langchain.com/docs/langserve/)** (openai, fastapi, routes, uvicorn, server)<br>`langserve.ipynb`
 - **[Templates](https://templates.langchain.com/)** (**[v0.1](https://python.langchain.com/v0.1/docs/templates/)**) (by terminal & langserve, rag-conversation template, etc.)<br>`langchain-templates.ipynb`
 - **[Chatbot](https://chat.langchain.com/)** (...answer questions about langchain)
+
+## 05. Level 1 Apps: "Toy Demos"
+
+- **Summarization** (openai, tokens, text splitter, chunks, chain, summarize chain)<br>`basic-app-summarization.ipynb`
