@@ -71,3 +71,4 @@
 - **Evaluation of QA App** (openai, basic rag, questions, answers, predictions, evaluation manual-automatic)<br>`basic-app-evaluation.ipynb`
 - **Querying database** (openai, sqlite, sql database chain)<br>`basic-app-querying-tabular-data.ipynb`
 - **Asking GitHub repo** (openai, text loader, basic rag)<br>`basic-app-qa-a-github-repo.ipynb`
+- **Asking API** (openai, api chain)<br>`basic-app-interacting-with-api.ipynb`
