@@ -108,3 +108,4 @@ moved to [**Streamlit**] directory in root
 - **Retriever App with Vector Database** (openai, vector store, retriever, similarity search)<br>`retriever-app.ipynb`
 - **Tool-Using Agent with LangGraph** (openai, tools, search tool by tavily search, agent)<br>`simple-agent.ipynb`
 - **RAG App with Vector Database** (openai, text loader, predefined prompt, rag with chroma vector store)<br>`simple-rag.ipynb`
+- **Conversational RAG App** (openai, text loader, rag with chroma vector store, chat message history)<br>`conversational-rag.ipynb`
