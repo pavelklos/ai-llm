@@ -107,3 +107,4 @@ moved to [**Streamlit**] directory in root
 - **Advanced Chatbot** (openai, chat message history, runnable with message history, memory in python dict)<br>`advanced-chatbot.ipynb`
 - **Retriever App with Vector Database** (openai, vector store, retriever, similarity search)<br>`retriever-app.ipynb`
 - **Tool-Using Agent with LangGraph** (openai, tools, search tool by tavily search, agent)<br>`simple-agent.ipynb`
+- **RAG App with Vector Database** (openai, text loader, predefined prompt, rag with chroma vector store)<br>`simple-rag.ipynb`
