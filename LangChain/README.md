@@ -96,3 +96,4 @@ moved to [**Streamlit**] directory in root
 - **Runnable Execution Order** (openai, runnables, pipe, execution order, invoke, stream, batch)<br>`runnable-order.ipynb`
 - **Built-In Runnables** (openai, runnable passthrough - lambda - parallel, lambda function, itemgetter)<br>`builtin-runnables.ipynb`
 - **Built-In Functions for Runnables** (openai, bind, assign)<br>`builtin-functions-runnable.ipynb`
+- **Main Operations** (openai, chaining runnables, coercion, chains multiple - nested - fallback)<br>`main-ops-chains.ipynb`
