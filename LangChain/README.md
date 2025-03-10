@@ -117,3 +117,4 @@ moved to [**Streamlit**] directory in root
 ## [Chatbot](https://chat.langchain.com/) (QA about LangChain)
 
 - **RAG App** (openai, pdf, rag, faiss, save-load vectore store)<br>`chatbot-rag-pdf-faiss.py`
+- **Querying database** (openai, sqlite, sql database chain)<br>`chatbot-database.py`
