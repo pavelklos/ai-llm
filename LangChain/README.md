@@ -95,3 +95,4 @@ moved to [**Streamlit**] directory in root
 - **LCEL in 06/2024** (openai, legacy chain vs. lcel chain runnables)<br>`intro-lcel-0724.ipynb`
 - **Runnable Execution Order** (openai, runnables, pipe, execution order, invoke, stream, batch)<br>`runnable-order.ipynb`
 - **Built-In Runnables** (openai, runnable passthrough - lambda - parallel, lambda function, itemgetter)<br>`builtin-runnables.ipynb`
+- **Built-In Functions for Runnables** (openai, bind, assign)<br>`builtin-functions-runnable.ipynb`
