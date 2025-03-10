@@ -114,7 +114,7 @@ moved to [**Streamlit**] directory in root
 - **Key Data Extraction App** (openai, structured output by pydantic schema, chain)<br>`key-data-extraction.ipynb`
 - **Sentiment Analysis App** (openai, structured output by pydantic schema, enum, chain)<br>`sentiment-analysis.ipynb`
 
-## [Chatbot](https://chat.langchain.com/) (QA about LangChain)
+## [Chatbot](https://chat.langchain.com/) (QA about LangChain) generated code by Chatbot
 
 - **RAG App** (openai, pdf, rag, faiss, save-load vectore store)<br>`chatbot-rag-pdf-faiss.py`
 - **Querying database** (openai, sqlite, sql database chain)<br>`chatbot-database.py`
