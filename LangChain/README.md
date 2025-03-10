@@ -109,3 +109,4 @@ moved to [**Streamlit**] directory in root
 - **Tool-Using Agent with LangGraph** (openai, tools, search tool by tavily search, agent)<br>`simple-agent.ipynb`
 - **RAG App with Vector Database** (openai, text loader, predefined prompt, rag with chroma vector store)<br>`simple-rag.ipynb`
 - **Conversational RAG App** (openai, text loader, rag with chroma vector store, chat message history)<br>`conversational-rag.ipynb`
+- **QA App from SQL Data** (openai, sqlite, sql query chain, query sql database tool)<br>`qa-from-sql.ipynb`
