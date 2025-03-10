@@ -89,3 +89,7 @@ moved to [**Streamlit**] directory in root
  [LCEL chain runnables](https://python.langchain.com/docs/how_to/sequence/)
  <br>`chain-actions.ipynb`
 - **Memory** (openai, conversation buffer memory, chat message history)<br>`memory.ipynb`
+
+## 08. LangChain v0.2 (LCEL in Depth)
+
+- **LCEL in 06/2024** (openai, legacy chain vs. lcel chain runnables)<br>`intro-lcel-0724.ipynb`
