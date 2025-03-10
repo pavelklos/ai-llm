@@ -97,3 +97,4 @@ moved to [**Streamlit**] directory in root
 - **Built-In Runnables** (openai, runnable passthrough - lambda - parallel, lambda function, itemgetter)<br>`builtin-runnables.ipynb`
 - **Built-In Functions for Runnables** (openai, bind, assign)<br>`builtin-functions-runnable.ipynb`
 - **Main Operations** (openai, chaining runnables, coercion, chains multiple - nested - fallback)<br>`main-ops-chains.ipynb`
+- **Basic RAG App** (openai, webbase loader, rag)<br>`lcel-chains-at-work.ipynb`
