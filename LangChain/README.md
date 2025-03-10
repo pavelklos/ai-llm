@@ -76,3 +76,10 @@
 - **RAG with DeepLake** (openai, documents, basic rag, deeplake, add documents)<br>`basic-rag-with-deeplake.ipynb`
 - **Basic Agent** (openai, google search, tools with functions, search.run, requests.get, agent)<br>`basic-app-simple-agent.ipynb`
 - **Advanced Output Parser** (openai, pydantic output parser)<br>`basic-app-with-pydantic-output-parser.ipynb`
+
+## 06. Level 2 Apps: "Toy Demos" + "Toy UIs" with Streamlit
+moved to [**Streamlit**] directory in root
+
+## 07. LangChain v0.2
+
+- **Connecting with LLMs** (openai, llm-chat model, stream, prompt templates, chain, output parsers, pydantic)<br>`connect-llms.ipynb`
