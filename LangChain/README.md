@@ -84,3 +84,7 @@ moved to [**Streamlit**] directory in root
 
 - **Connecting with LLMs** (openai, llm-chat model, stream, prompt templates, chain, output parsers, pydantic)<br>`connect-llms.ipynb`
 - **Loading Data** (openai, loaders txt-csv-html-pdf-wiki, rag, splitter, embeddings, vector store, retriever, indexing)<br>`load-data.ipynb`
+- **Chaining Actions** (openai, chain)
+ [Legacy Chains](https://python.langchain.com/v0.1/docs/modules/chains/),
+ [LCEL chain runnables](https://python.langchain.com/docs/how_to/sequence/)
+ <br>`chain-actions.ipynb`
