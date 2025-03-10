@@ -88,3 +88,4 @@ moved to [**Streamlit**] directory in root
  [Legacy Chains](https://python.langchain.com/v0.1/docs/modules/chains/),
  [LCEL chain runnables](https://python.langchain.com/docs/how_to/sequence/)
  <br>`chain-actions.ipynb`
+- **Memory** (openai, conversation buffer memory, chat message history)<br>`memory.ipynb`
