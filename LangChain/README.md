@@ -102,3 +102,4 @@ moved to [**Streamlit**] directory in root
 ## 09. Top 10 Apps with LangChain v0.2
 
 - **Simple Translator** (openai, chain with fastapi & routes, langserve)<br>`simpleTranslator.py`
+- **LLM App deployed with LangServe** (openai, chain with fastapi & routes, langserve, remote runnable)<br>`simple-llm-app.ipynb`
