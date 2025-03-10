@@ -93,3 +93,4 @@ moved to [**Streamlit**] directory in root
 ## 08. LangChain v0.2 (LCEL in Depth)
 
 - **LCEL in 06/2024** (openai, legacy chain vs. lcel chain runnables)<br>`intro-lcel-0724.ipynb`
+- **Runnable Execution Order** (openai, runnables, pipe, execution order, invoke, stream, batch)<br>`runnable-order.ipynb`
