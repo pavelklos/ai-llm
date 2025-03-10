@@ -75,3 +75,4 @@
 - **Chatbot with personality & memory** (openai, role template, conversation buffer memory)<br>`basic-app-chatbot.ipynb`
 - **RAG with DeepLake** (openai, documents, basic rag, deeplake, add documents)<br>`basic-rag-with-deeplake.ipynb`
 - **Basic Agent** (openai, google search, tools with functions, search.run, requests.get, agent)<br>`basic-app-simple-agent.ipynb`
+- **Advanced Output Parser** (openai, pydantic output parser)<br>`basic-app-with-pydantic-output-parser.ipynb`
