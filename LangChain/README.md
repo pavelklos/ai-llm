@@ -104,3 +104,4 @@ moved to [**Streamlit**] directory in root
 - **Simple Translator** (openai, chain with fastapi & routes, langserve)<br>`simpleTranslator.py`
 - **LLM App deployed with LangServe** (openai, chain with fastapi & routes, langserve, remote runnable)<br>`simple-llm-app.ipynb`
 - **Simple Chatbot** (openai, conversation buffer memory, file chat message history, memory in .json file)<br>`simple-chatbot.ipynb`
+- **Advanced Chatbot** (openai, chat message history, runnable with message history, memory in python dict)<br>`advanced-chatbot.ipynb`
