@@ -105,3 +105,4 @@ moved to [**Streamlit**] directory in root
 - **LLM App deployed with LangServe** (openai, chain with fastapi & routes, langserve, remote runnable)<br>`simple-llm-app.ipynb`
 - **Simple Chatbot** (openai, conversation buffer memory, file chat message history, memory in .json file)<br>`simple-chatbot.ipynb`
 - **Advanced Chatbot** (openai, chat message history, runnable with message history, memory in python dict)<br>`advanced-chatbot.ipynb`
+- **Retriever App with Vector Database** (openai, vector store, retriever, similarity search)<br>`retriever-app.ipynb`
