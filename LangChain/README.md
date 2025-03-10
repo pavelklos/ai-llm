@@ -111,3 +111,4 @@ moved to [**Streamlit**] directory in root
 - **Conversational RAG App** (openai, text loader, rag with chroma vector store, chat message history)<br>`conversational-rag.ipynb`
 - **QA App from SQL Data** (openai, sqlite, sql query chain, query sql database tool)<br>`qa-from-sql.ipynb`
 - **QA App from PDF File** (openai, pdf loader, rag with chroma vector store)<br>`qa-from-pdf.ipynb`
+- **Key Data Extraction App** (openai, structured output by pydantic schema, chain)<br>`key-data-extraction.ipynb`
