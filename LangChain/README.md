@@ -98,3 +98,7 @@ moved to [**Streamlit**] directory in root
 - **Built-In Functions for Runnables** (openai, bind, assign)<br>`builtin-functions-runnable.ipynb`
 - **Main Operations** (openai, chaining runnables, coercion, chains multiple - nested - fallback)<br>`main-ops-chains.ipynb`
 - **Basic RAG App** (openai, webbase loader, rag)<br>`lcel-chains-at-work.ipynb`
+
+## 09. Top 10 Apps with LangChain v0.2
+
+- **Simple Translator** (openai, chain with fastapi & routes, langserve)<br>`simpleTranslator.py`
