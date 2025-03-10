@@ -83,3 +83,4 @@ moved to [**Streamlit**] directory in root
 ## 07. LangChain v0.2
 
 - **Connecting with LLMs** (openai, llm-chat model, stream, prompt templates, chain, output parsers, pydantic)<br>`connect-llms.ipynb`
+- **Loading Data** (openai, loaders txt-csv-html-pdf-wiki, rag, splitter, embeddings, vector store, retriever, indexing)<br>`load-data.ipynb`
