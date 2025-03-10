@@ -112,3 +112,4 @@ moved to [**Streamlit**] directory in root
 - **QA App from SQL Data** (openai, sqlite, sql query chain, query sql database tool)<br>`qa-from-sql.ipynb`
 - **QA App from PDF File** (openai, pdf loader, rag with chroma vector store)<br>`qa-from-pdf.ipynb`
 - **Key Data Extraction App** (openai, structured output by pydantic schema, chain)<br>`key-data-extraction.ipynb`
+- **Sentiment Analysis App** (openai, structured output by pydantic schema, enum, chain)<br>`sentiment-analysis.ipynb`
