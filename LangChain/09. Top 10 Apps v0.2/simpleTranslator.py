@@ -11,7 +11,9 @@ _ = load_dotenv(find_dotenv())
 
 openai_api_key = os.environ["OPENAI_API_KEY"]
 
-llm = ChatOpenAI(model="gpt-3.5-turbo")
+MODEL_GPT = 'gpt-4o-mini'
+
+llm = ChatOpenAI(model=MODEL_GPT)
 
 parser = StrOutputParser()
 
@@ -40,3 +42,5 @@ if __name__ == "__main__":
     import uvicorn
 
     uvicorn.run(app, host="localhost", port=8000)
+
+# http://localhost:8000/chain/playground/
