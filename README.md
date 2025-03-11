@@ -39,3 +39,21 @@
 - **Writing Text Summarization** (openai, character text splitter, summarize chain)<br>`004-streamlit-text-summarization.py`
 - **Extract Key Information from Product Reviews** (openai, prompt template, format output)<br>`005-streamlit-extract-json-from-review.py`
 - **Evaluate a RAG App** (openai, upload file, rag with faiss, qa eval chain)<br>`009-streamlit-evaluate-QandA-from-long-document.py`
+
+## 30 Days of Streamlit
+- [Get started with Streamlit](https://docs.streamlit.io/get-started)
+- [30 Days of Streamlit](https://30days.streamlit.app/)
+
+- **Install conda**
+  - [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
+- **Terminal**
+  ```
+  conda create -n stenv python=3.9
+  conda activate stenv
+  pip install streamlit
+  streamlit hello
+  ```
+- `streamlit_app.py`
+  ```
+  streamlit run streamlit_app.py
+  ```
