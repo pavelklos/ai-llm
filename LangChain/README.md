@@ -118,4 +118,4 @@ moved to [**Streamlit**] directory in root
 
 - **RAG App** (openai, pdf, rag, faiss, save-load vectore store)<br>`chatbot-rag-pdf-faiss.py`<br>`chatbot-rag-pdf-faiss.ipynb` + `faiss_index` vectore store
 - **Querying database** (openai, sqlite, sql database chain)<br>`chatbot-database.py`<br>`chatbot-database.ipynb` + `street_tree_db.sqlite` `Chinook.sqlite` databases
-- **Asking GitHub repo** (openai, git loader, rag)<br>`chatbot-github.py`
+- **Asking GitHub repo** (openai, git loader, rag)<br>`chatbot-github.py`<br>`chatbot-github.ipynb`
