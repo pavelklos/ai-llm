@@ -116,6 +116,6 @@ moved to [**Streamlit**] directory in root
 
 ## [Chatbot](https://chat.langchain.com/) (QA about LangChain) generated code by Chatbot
 
-- **RAG App** (openai, pdf, rag, faiss, save-load vectore store)<br>`chatbot-rag-pdf-faiss.py`<br>`chatbot-rag-pdf-faiss.ipynb` + `faiss_index`
-- **Querying database** (openai, sqlite, sql database chain)<br>`chatbot-database.py`
+- **RAG App** (openai, pdf, rag, faiss, save-load vectore store)<br>`chatbot-rag-pdf-faiss.py`<br>`chatbot-rag-pdf-faiss.ipynb` + `faiss_index` vectore store
+- **Querying database** (openai, sqlite, sql database chain)<br>`chatbot-database.py`<br>`chatbot-database.ipynb` + `street_tree_db.sqlite` `Chinook.sqlite` databases
 - **Asking GitHub repo** (openai, git loader, rag)<br>`chatbot-github.py`
