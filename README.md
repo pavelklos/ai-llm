@@ -57,3 +57,7 @@
   ```
   streamlit run streamlit_app.py
   ```
+- `streamlit_app_layout.py`
+  ```
+  streamlit run streamlit_app_layout.py
+  ```
