@@ -184,3 +184,75 @@ st.latex(r'''
      \sum_{k=0}^{n-1} ar^k =
      a \left(\frac{1-r^{n}}{1-r}\right)
      ''')
+
+# Day 16 -----------------------------------------------------------------------
+# [Customizing the theme of Streamlit apps]
+
+import streamlit as st
+
+st.title('Customizing theme of Streamlit')
+
+st.write('Contents of the `.streamlit/config.toml` file of this app')
+
+st.code("""
+[theme]
+primaryColor="#F39C12"
+backgroundColor="#2E86C1"
+secondaryBackgroundColor="#AED6F1"
+textColor="#FFFFFF"
+font="monospace"
+""")
+
+number = st.sidebar.slider('Select a number:', 0, 10, 5)
+st.write('Selected number from slider widget is:', number)
+
+url_1 = "https://docs.streamlit.io/library/advanced-features/theming"
+url_2 = "https://htmlcolorcodes.com/"
+st.write("Theming [link](%s)" % url_1)
+st.markdown("HTML Color Codes [link](%s)" % url_2)
+
+st.markdown("""
+- [Theming](https://docs.streamlit.io/library/advanced-features/theming)
+- [HTML Color Codes](https://htmlcolorcodes.com/)
+""")
+
+# Day 17 -----------------------------------------------------------------------
+# [st.secrets]
+
+# import streamlit as st
+
+# st.title('st.secrets')
+
+# st.write(st.secrets['message'])
+
+# st.write(st.secrets['whitelist'])
+# "sally" in st.secrets.whitelist
+
+# st.write(st.secrets["database"]["user"])
+# st.write(st.secrets.database.password)
+# st.secrets["database"]["user"] == "your username"
+# st.secrets.database.password == "your password"
+
+# Day 18 -----------------------------------------------------------------------
+# [st.file_uploader]
+
+import streamlit as st
+import pandas as pd
+
+st.title('st.file_uploader')
+
+st.subheader('Input CSV')
+uploaded_file = st.file_uploader("Choose a file")
+
+if uploaded_file is not None:
+  df = pd.read_csv(uploaded_file)
+  st.subheader('DataFrame')
+  st.write(df)
+  st.subheader('Descriptive Statistics')
+  st.write(df.describe())
+else:
+  st.info('☝️ Upload a CSV file')
+
+# Day 19 -----------------------------------------------------------------------
+# [How to layout your Streamlit app]
+# file [streamlit_app_layout.py]
