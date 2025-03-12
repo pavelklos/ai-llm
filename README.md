@@ -41,11 +41,11 @@
 - **Evaluate a RAG App** (openai, upload file, rag with faiss, qa eval chain)<br>`009-streamlit-evaluate-QandA-from-long-document.py`
 
 ## 30 Days of Streamlit
-- [Get started with Streamlit](https://docs.streamlit.io/get-started)
-- [30 Days of Streamlit](https://30days.streamlit.app/)
+- [Get started with Streamlit](https://docs.streamlit.io/get-started)<br>
+  [30 Days of Streamlit](https://30days.streamlit.app/)
 
-- **Install conda**
-  - [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
+- **Install conda**<br>
+  [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
 - **Terminal**
   ```
   conda create -n stenv python=3.9
@@ -53,11 +53,14 @@
   pip install streamlit
   streamlit hello
   ```
-- `streamlit_app.py`
+  ```
+  conda create --name myenv
+  conda install --file requirements.txt
+  conda create --name myenv python=3.8 numpy
+  conda activate myenv
+  conda deactivate
+  ```
+- `streamlit_app.py`<br>`streamlit_app_layout.py`<br>`streamlit_app_dashboard.py`<br>`streamlit_app_shap.py`<br>`streamlit_app_zero_shot_classifier.py`<br>`streamlit_app_art.py`
   ```
   streamlit run streamlit_app.py
-  ```
-- `streamlit_app_layout.py`
-  ```
-  streamlit run streamlit_app_layout.py
   ```
