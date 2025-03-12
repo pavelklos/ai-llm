@@ -64,6 +64,12 @@
   conda env list
   conda env remove --name myenv
   ```
+  ```
+  python -m venv venv
+  .\venv\Scripts\activate  # Windows
+  source venv/bin/activate  # macOS
+  pip install -r requirements.txt
+  ```
 - `streamlit_app.py`<br>`streamlit_app_layout.py`<br>`streamlit_app_dashboard.py`<br>`streamlit_app_shap.py`<br>`streamlit_app_zero_shot_classifier.py`<br>`streamlit_app_art.py`
   ```
   streamlit run streamlit_app.py
