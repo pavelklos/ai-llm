@@ -55,10 +55,14 @@
   ```
   ```
   conda create --name myenv
-  conda install --file requirements.txt
   conda create --name myenv python=3.8 numpy
   conda activate myenv
+  conda install --file requirements.txt
   conda deactivate
+
+  conda info --envs
+  conda env list
+  conda env remove --name myenv
   ```
 - `streamlit_app.py`<br>`streamlit_app_layout.py`<br>`streamlit_app_dashboard.py`<br>`streamlit_app_shap.py`<br>`streamlit_app_zero_shot_classifier.py`<br>`streamlit_app_art.py`
   ```
