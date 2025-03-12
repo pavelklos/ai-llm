@@ -45,6 +45,7 @@
 - **RAG 1** `w5d1-1.ipynb`
 - **RAG 2** `w5d2-1.ipynb`
 - **RAG 3** `w5d3-1.ipynb`
+- **RAG 4** `w5d4-1.ipynb`
 
 ## LangChain
 
