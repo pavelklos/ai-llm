@@ -43,6 +43,7 @@
 **RAG** (Retrieval-Augmented Generation) + **QA** (Question Answering)
 
 - **RAG 1** `w5d1-1.ipynb`
+- **RAG 2** `w5d2-1.ipynb`
 
 ## LangChain
 
