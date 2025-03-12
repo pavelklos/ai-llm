@@ -32,6 +32,7 @@
 - **Pipelines** `Week_3_Day_2_Pipelines.ipynb`
 - **Tokenizers** `Week_3_Day_3_Tokenizers.ipynb`
 - **Models** `Week_3_Day_4_Models.ipynb`
+- **Meeting Minutes product** `Week_3_Day_5_Meeting_Minutes_product.ipynb`
 
 ## LangChain
 
