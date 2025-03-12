@@ -31,6 +31,7 @@
 - **Colab** `Week_3_Day_1_Colab.ipynb`
 - **Pipelines** `Week_3_Day_2_Pipelines.ipynb`
 - **Tokenizers** `Week_3_Day_3_Tokenizers.ipynb`
+- **Models** `Week_3_Day_4_Models.ipynb`
 
 ## LangChain
 
