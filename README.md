@@ -26,6 +26,10 @@
 - **Models + Gradio** (gpt, tools, multi-modal, history)<br>`w2d5-1.ipynb`
 - **Models + Gradio** (gpt, tools, multi-modal, history)<br>`w2d5-2.ipynb`
 
+## 03. HuggingFace (by [Google Colab](https://colab.research.google.com/))
+
+- **Colab** `Week_3_Day_1_Colab.ipynb`
+
 ## LangChain
 
 - [README](LangChain/README.md)
