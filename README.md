@@ -29,6 +29,7 @@
 ## 03. HuggingFace (by [Google Colab](https://colab.research.google.com/))
 
 - **Colab** `Week_3_Day_1_Colab.ipynb`
+- **Pipelines** `Week_3_Day_2_Pipelines.ipynb`
 
 ## LangChain
 
