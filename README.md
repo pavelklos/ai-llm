@@ -39,7 +39,10 @@
   - **Code Generator 1** `w4d3-1.ipynb` `w4d3-2.ipynb`
   - **Code Generator 2** `w4d4-1.ipynb` `w4d4-2.ipynb`
 
-## 05. RAG and QA (Question Answering)
+## 05. RAG and QA
+**RAG** (Retrieval-Augmented Generation) + **QA** (Question Answering)
+
+- **RAG 1** `w5d1-1.ipynb`
 
 ## LangChain
 
