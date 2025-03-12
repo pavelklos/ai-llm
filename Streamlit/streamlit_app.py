@@ -476,12 +476,16 @@ with col3:
 
 # Day 27 -----------------------------------------------------------------------
 # [Build a draggable and resizable dashboard with Streamlit Elements]
+# file [streamlit_app_dashboard.py]
 
 # Day 28 -----------------------------------------------------------------------
 # [streamlit-shap]
+# file [streamlit_app_shap.py]
 
 # Day 29 -----------------------------------------------------------------------
 # [How to make a zero-shot learning text classifier using Hugging Face and Streamlit]
+# file [streamlit_app_zero_shot_classifier.py]
 
 # Day 30 -----------------------------------------------------------------------
 # [The Art of Creating Streamlit Apps]
+# file [streamlit_app_art.py]
