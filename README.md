@@ -34,6 +34,10 @@
 - **Models** `Week_3_Day_4_Models.ipynb`
 - **Meeting Minutes product** `Week_3_Day_5_Meeting_Minutes_product.ipynb`
 
+## 04. Code Generation
+- Generate high performance C++ code from Python code
+  - **Code Generator 1** `w4d3-1.ipynb` `w4d3-2.ipynb`
+
 ## LangChain
 
 - [README](LangChain/README.md)
