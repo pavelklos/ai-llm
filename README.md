@@ -37,6 +37,7 @@
 ## 04. Code Generation
 - Generate high performance C++ code from Python code
   - **Code Generator 1** `w4d3-1.ipynb` `w4d3-2.ipynb`
+  - **Code Generator 2** `w4d4-1.ipynb` `w4d4-2.ipynb`
 
 ## LangChain
 
